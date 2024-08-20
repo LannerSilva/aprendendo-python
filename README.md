@@ -1,2 +1,2 @@
-# aprendendo python
- aulas do curso em video
+# Aprendendo python!
+ Aulas do curso em video.
